@@ -1,7 +1,7 @@
 # e-commerce-project
 
 With this project, you'll be able to:
-1) Teste creating new users at the sign up section
+1) Test website by creating new users at the sign up section.
 2) Log in to a personal purchase profile
 3) Perform a purchase and add it to the cart.
 4) Update amount of the purchase by lowering or raising the previous amounts and updating it at the cart section.
